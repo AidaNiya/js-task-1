@@ -10,8 +10,13 @@
 
 
 // hw3
-let a = "My name is Zhibek. ";
-let b = " It's my Email. zhibek.shakenova.on@gmail.com";
+// let a = "My name is Zhibek. ";
+// let b = " It's my Email. zhibek.shakenova.on@gmail.com";
+// console.log(a+b);
+
+// hw4
+let a = 75;
+let b = 112;
 console.log(a+b);
 
 
